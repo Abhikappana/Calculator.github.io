@@ -73,3 +73,10 @@ button:active {
 .operator{
     color: rgb(153, 255, 52);
 }
+
+.attribute{
+display: inline;
+text-align: right;
+margin-top: 100%;
+color: #888181;
+}
